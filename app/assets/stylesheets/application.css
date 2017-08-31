@@ -43,7 +43,7 @@
  body {
  	background: url(http://mediad.publicbroadcasting.net/p/kajx/files/201608/sky-space-galaxy-milky-way.jpg);
  }
- a {
+ body a {
  	font-family: 'Dancing Script', cursive;
  	color: #ABCABC;
  	font-size: 30px;
